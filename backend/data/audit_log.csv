@@ -1,0 +1,66 @@
+audit_log_id,user_id,action,entity_type,entity_id,before_state,after_state,timestamp,reason
+AUD0001,USR001,CREATE,submission,SUB0001,,"{""validation_status"": ""Validated""}",2026-09-02T09:00:00,New maintenance issue submitted
+AUD0002,USR006,CREATE,submission,SUB0002,,"{""validation_status"": ""Validated""}",2026-09-03T09:00:00,New maintenance issue submitted
+AUD0003,USR003,CREATE,submission,SUB0003,,"{""validation_status"": ""Validated""}",2026-09-02T09:00:00,New maintenance issue submitted
+AUD0004,USR006,CREATE,submission,SUB0004,,"{""validation_status"": ""Validated""}",2026-08-28T09:00:00,New maintenance issue submitted
+AUD0005,USR002,CREATE,submission,SUB0005,,"{""validation_status"": ""Validated""}",2026-08-28T09:00:00,New maintenance issue submitted
+AUD0006,USR006,CREATE,submission,SUB0006,,"{""validation_status"": ""Validated""}",2026-09-07T09:00:00,New maintenance issue submitted
+AUD0007,USR001,CREATE,submission,SUB0007,,"{""validation_status"": ""Validated""}",2026-09-02T09:00:00,New maintenance issue submitted
+AUD0008,USR006,CREATE,submission,SUB0008,,"{""validation_status"": ""Validated""}",2026-09-03T09:00:00,New maintenance issue submitted
+AUD0009,USR001,CREATE,submission,SUB0009,,"{""validation_status"": ""Validated""}",2026-08-29T09:00:00,New maintenance issue submitted
+AUD0010,USR001,CREATE,submission,SUB0010,,"{""validation_status"": ""Validated""}",2026-09-07T09:00:00,New maintenance issue submitted
+AUD0011,USR008,CREATE,submission,SUB0011,,"{""validation_status"": ""Validated""}",2026-09-06T09:00:00,New maintenance issue submitted
+AUD0012,USR003,CREATE,submission,SUB0012,,"{""validation_status"": ""Validated""}",2026-09-07T09:00:00,New maintenance issue submitted
+AUD0013,USR004,CREATE,submission,SUB0013,,"{""validation_status"": ""Validated""}",2026-09-03T09:00:00,New maintenance issue submitted
+AUD0014,USR001,CREATE,submission,SUB0014,,"{""validation_status"": ""Validated""}",2026-09-05T09:00:00,New maintenance issue submitted
+AUD0015,USR006,CREATE,submission,SUB0015,,"{""validation_status"": ""Validated""}",2026-09-02T09:00:00,New maintenance issue submitted
+AUD0016,USR014,APPROVE,block_plan_item,PI0001,"{""controller_decision"": ""Pending""}","{""controller_decision"": ""Approved""}",2026-09-02T18:00:00,Meets safety and scheduling constraints; no unresolved conflict.
+AUD0017,USR012,APPROVE,block_plan_item,PI0002,"{""controller_decision"": ""Pending""}","{""controller_decision"": ""Approved""}",2026-09-02T18:00:00,Meets safety and scheduling constraints; no unresolved conflict.
+AUD0018,USR014,APPROVE,block_plan_item,PI0003,"{""controller_decision"": ""Pending""}","{""controller_decision"": ""Approved""}",2026-08-28T18:00:00,Meets safety and scheduling constraints; no unresolved conflict.
+AUD0019,USR011,APPROVE,block_plan_item,PI0004,"{""controller_decision"": ""Pending""}","{""controller_decision"": ""Approved""}",2026-09-02T18:00:00,Meets safety and scheduling constraints; no unresolved conflict.
+AUD0020,USR010,APPROVE,block_plan_item,PI0005,"{""controller_decision"": ""Pending""}","{""controller_decision"": ""Approved""}",2026-08-29T18:00:00,Meets safety and scheduling constraints; no unresolved conflict.
+AUD0021,USR010,APPROVE,block_plan_item,PI0006,"{""controller_decision"": ""Pending""}","{""controller_decision"": ""Approved""}",2026-09-07T18:00:00,Meets safety and scheduling constraints; no unresolved conflict.
+AUD0022,USR011,APPROVE,block_plan_item,PI0007,"{""controller_decision"": ""Pending""}","{""controller_decision"": ""Approved""}",2026-09-07T18:00:00,Meets safety and scheduling constraints; no unresolved conflict.
+AUD0023,USR011,APPROVE,block_plan_item,PI0008,"{""controller_decision"": ""Pending""}","{""controller_decision"": ""Approved""}",2026-09-03T18:00:00,Meets safety and scheduling constraints; no unresolved conflict.
+AUD0024,USR011,APPROVE,block_plan_item,PI0009,"{""controller_decision"": ""Pending""}","{""controller_decision"": ""Approved""}",2026-09-05T18:00:00,Meets safety and scheduling constraints; no unresolved conflict.
+AUD0025,USR012,APPROVE,block_plan_item,PI0010,"{""controller_decision"": ""Pending""}","{""controller_decision"": ""Approved""}",2026-09-02T18:00:00,Meets safety and scheduling constraints; no unresolved conflict.
+AUD0026,USR012,APPROVE,block_plan_item,PI0011,"{""controller_decision"": ""Pending""}","{""controller_decision"": ""Approved""}",2026-09-07T18:00:00,Meets safety and scheduling constraints; no unresolved conflict.
+AUD0027,USR011,APPROVE,block_plan_item,PI0012,"{""controller_decision"": ""Pending""}","{""controller_decision"": ""Approved""}",2026-09-06T18:00:00,Meets safety and scheduling constraints; no unresolved conflict.
+AUD0028,USR014,APPROVE,block_plan_item,PI0013,"{""controller_decision"": ""Pending""}","{""controller_decision"": ""Approved""}",2026-08-28T18:00:00,Meets safety and scheduling constraints; no unresolved conflict.
+AUD0029,USR012,APPROVE,block_plan_item,PI0014,"{""controller_decision"": ""Pending""}","{""controller_decision"": ""Approved""}",2026-09-04T18:00:00,Meets safety and scheduling constraints; no unresolved conflict.
+AUD0030,USR013,APPROVE,block_plan_item,PI0015,"{""controller_decision"": ""Pending""}","{""controller_decision"": ""Approved""}",2026-08-28T18:00:00,Meets safety and scheduling constraints; no unresolved conflict.
+AUD0031,USR011,APPROVE,block_plan_item,PI0016,"{""controller_decision"": ""Pending""}","{""controller_decision"": ""Approved""}",2026-09-02T18:00:00,Meets safety and scheduling constraints; no unresolved conflict.
+AUD0032,USR012,APPROVE,block_plan_item,PI0017,"{""controller_decision"": ""Pending""}","{""controller_decision"": ""Approved""}",2026-08-28T18:00:00,Meets safety and scheduling constraints; no unresolved conflict.
+AUD0033,USR014,APPROVE,block_plan_item,PI0018,"{""controller_decision"": ""Pending""}","{""controller_decision"": ""Approved""}",2026-09-04T18:00:00,Meets safety and scheduling constraints; no unresolved conflict.
+AUD0034,USR014,APPROVE,block_plan_item,PI0019,"{""controller_decision"": ""Pending""}","{""controller_decision"": ""Approved""}",2026-08-31T18:00:00,Meets safety and scheduling constraints; no unresolved conflict.
+AUD0035,USR014,APPROVE,block_plan_item,PI0020,"{""controller_decision"": ""Pending""}","{""controller_decision"": ""Approved""}",2026-09-01T18:00:00,Meets safety and scheduling constraints; no unresolved conflict.
+AUD0036,USR014,APPROVE,block_plan_item,PI0021,"{""controller_decision"": ""Pending""}","{""controller_decision"": ""Approved""}",2026-08-28T18:00:00,Meets safety and scheduling constraints; no unresolved conflict.
+AUD0037,USR014,APPROVE,block_plan_item,PI0022,"{""controller_decision"": ""Pending""}","{""controller_decision"": ""Approved""}",2026-09-06T18:00:00,Meets safety and scheduling constraints; no unresolved conflict.
+AUD0038,USR010,APPROVE,block_plan_item,PI0023,"{""controller_decision"": ""Pending""}","{""controller_decision"": ""Approved""}",2026-09-03T18:00:00,Meets safety and scheduling constraints; no unresolved conflict.
+AUD0039,USR013,APPROVE,block_plan_item,PI0024,"{""controller_decision"": ""Pending""}","{""controller_decision"": ""Approved""}",2026-09-07T18:00:00,Meets safety and scheduling constraints; no unresolved conflict.
+AUD0040,USR011,APPROVE,block_plan_item,PI0025,"{""controller_decision"": ""Pending""}","{""controller_decision"": ""Approved""}",2026-09-02T18:00:00,Meets safety and scheduling constraints; no unresolved conflict.
+AUD0041,USR010,APPROVE,block_plan_item,PI0026,"{""controller_decision"": ""Pending""}","{""controller_decision"": ""Approved""}",2026-09-07T18:00:00,Meets safety and scheduling constraints; no unresolved conflict.
+AUD0042,USR011,APPROVE,block_plan_item,PI0027,"{""controller_decision"": ""Pending""}","{""controller_decision"": ""Approved""}",2026-09-06T18:00:00,Meets safety and scheduling constraints; no unresolved conflict.
+AUD0043,USR011,APPROVE,block_plan_item,PI0028,"{""controller_decision"": ""Pending""}","{""controller_decision"": ""Approved""}",2026-08-28T18:00:00,Meets safety and scheduling constraints; no unresolved conflict.
+AUD0044,USR014,APPROVE,block_plan_item,PI0029,"{""controller_decision"": ""Pending""}","{""controller_decision"": ""Approved""}",2026-09-03T18:00:00,Meets safety and scheduling constraints; no unresolved conflict.
+AUD0045,USR010,APPROVE,block_plan_item,PI0030,"{""controller_decision"": ""Pending""}","{""controller_decision"": ""Approved""}",2026-09-06T18:00:00,Meets safety and scheduling constraints; no unresolved conflict.
+AUD0046,USR010,APPROVE,block_plan_item,PI0031,"{""controller_decision"": ""Pending""}","{""controller_decision"": ""Approved""}",2026-09-04T18:00:00,Meets safety and scheduling constraints; no unresolved conflict.
+AUD0047,USR014,APPROVE,block_plan_item,PI0032,"{""controller_decision"": ""Pending""}","{""controller_decision"": ""Approved""}",2026-08-28T18:00:00,Meets safety and scheduling constraints; no unresolved conflict.
+AUD0048,USR014,APPROVE,block_plan_item,PI0033,"{""controller_decision"": ""Pending""}","{""controller_decision"": ""Approved""}",2026-09-05T18:00:00,Meets safety and scheduling constraints; no unresolved conflict.
+AUD0049,USR010,APPROVE,block_plan_item,PI0034,"{""controller_decision"": ""Pending""}","{""controller_decision"": ""Approved""}",2026-09-04T18:00:00,Meets safety and scheduling constraints; no unresolved conflict.
+AUD0050,USR010,APPROVE,block_plan_item,PI0035,"{""controller_decision"": ""Pending""}","{""controller_decision"": ""Approved""}",2026-09-07T18:00:00,Meets safety and scheduling constraints; no unresolved conflict.
+AUD0051,USR011,APPROVE,block_plan_item,PI0036,"{""controller_decision"": ""Pending""}","{""controller_decision"": ""Approved""}",2026-09-05T18:00:00,Meets safety and scheduling constraints; no unresolved conflict.
+AUD0052,USR010,APPROVE,block_plan_item,PI0037,"{""controller_decision"": ""Pending""}","{""controller_decision"": ""Approved""}",2026-08-30T18:00:00,Meets safety and scheduling constraints; no unresolved conflict.
+AUD0053,USR010,APPROVE,block_plan_item,PI0038,"{""controller_decision"": ""Pending""}","{""controller_decision"": ""Approved""}",2026-09-04T18:00:00,Meets safety and scheduling constraints; no unresolved conflict.
+AUD0054,USR013,APPROVE,block_plan_item,PI0039,"{""controller_decision"": ""Pending""}","{""controller_decision"": ""Approved""}",2026-09-01T18:00:00,Meets safety and scheduling constraints; no unresolved conflict.
+AUD0055,USR010,APPROVE,block_plan_item,PI0040,"{""controller_decision"": ""Pending""}","{""controller_decision"": ""Approved""}",2026-09-05T18:00:00,Meets safety and scheduling constraints; no unresolved conflict.
+AUD0056,USR010,APPROVE,block_plan_item,PI0041,"{""controller_decision"": ""Pending""}","{""controller_decision"": ""Approved""}",2026-09-01T18:00:00,Meets safety and scheduling constraints; no unresolved conflict.
+AUD0057,USR012,APPROVE,block_plan_item,PI0042,"{""controller_decision"": ""Pending""}","{""controller_decision"": ""Approved""}",2026-09-07T18:00:00,Meets safety and scheduling constraints; no unresolved conflict.
+AUD0058,USR014,APPROVE,block_plan_item,PI0043,"{""controller_decision"": ""Pending""}","{""controller_decision"": ""Approved""}",2026-09-03T18:00:00,Meets safety and scheduling constraints; no unresolved conflict.
+AUD0059,USR014,APPROVE,block_plan_item,PI0044,"{""controller_decision"": ""Pending""}","{""controller_decision"": ""Approved""}",2026-09-02T18:00:00,Meets safety and scheduling constraints; no unresolved conflict.
+AUD0060,USR012,APPROVE,block_plan_item,PI0045,"{""controller_decision"": ""Pending""}","{""controller_decision"": ""Approved""}",2026-08-28T18:00:00,Meets safety and scheduling constraints; no unresolved conflict.
+AUD0061,USR014,APPROVE,block_plan_item,PI0046,"{""controller_decision"": ""Pending""}","{""controller_decision"": ""Approved""}",2026-09-05T18:00:00,Meets safety and scheduling constraints; no unresolved conflict.
+AUD0062,USR013,APPROVE,block_plan_item,PI0047,"{""controller_decision"": ""Pending""}","{""controller_decision"": ""Approved""}",2026-09-02T18:00:00,Meets safety and scheduling constraints; no unresolved conflict.
+AUD0063,USR011,APPROVE,block_plan_item,PI0048,"{""controller_decision"": ""Pending""}","{""controller_decision"": ""Approved""}",2026-09-03T18:00:00,Meets safety and scheduling constraints; no unresolved conflict.
+AUD0064,USR014,APPROVE,block_plan_item,PI0049,"{""controller_decision"": ""Pending""}","{""controller_decision"": ""Approved""}",2026-08-28T18:00:00,Meets safety and scheduling constraints; no unresolved conflict.
+AUD0065,USR014,APPROVE,block_plan_item,PI0050,"{""controller_decision"": ""Pending""}","{""controller_decision"": ""Approved""}",2026-09-02T18:00:00,Meets safety and scheduling constraints; no unresolved conflict.

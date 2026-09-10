@@ -1,0 +1,4 @@
+compatibility_rule_id,department_a_id,department_b_id,compatible,conditions,version
+CMP001,DPT001,DPT002,True,"{""note"": ""Track and signal crews can share a possession window with a safety watchman.""}",1
+CMP002,DPT001,DPT003,True,"{""note"": ""Track work permitted during OHE power-block with joint clearance.""}",1
+CMP003,DPT002,DPT003,False,"{""note"": ""Signal cabling work near live OHE requires a separate isolated block \u2014 not combinable.""}",1

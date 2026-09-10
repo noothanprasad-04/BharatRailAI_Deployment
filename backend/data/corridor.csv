@@ -1,0 +1,10 @@
+corridor_id,section_name,division,zone,route_criticality,has_alternate_route,avg_daily_trains,avg_daily_freight_trains
+SEC001,SBC-YPR,DIV001,South Western Railway,Medium,True,4,0
+SEC002,YPR-KJM,DIV001,South Western Railway,Medium,True,11,0
+SEC003,KJM-BNC,DIV001,South Western Railway,High,True,1,0
+SEC004,BNC-WFD,DIV001,South Western Railway,Medium,True,5,0
+SEC005,WFD-BYPL,DIV001,South Western Railway,High,True,4,0
+SEC006,BYPL-HSRA,DIV001,South Western Railway,Medium,False,5,0
+SEC007,HSRA-CAN,DIV001,South Western Railway,Low,False,3,1
+SEC008,CAN-DRU,DIV001,South Western Railway,Low,False,6,2
+SEC009,DRU-MLO,DIV001,South Western Railway,Medium,False,1,1

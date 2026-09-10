@@ -1,0 +1,51 @@
+plan_item_id,plan_id,corridor_id,window_start,window_end,conflict_flags,controller_decision,decision_by_user_id,decision_at,version
+PI0001,PLAN001,SEC002,2026-09-13T14:00:00,2026-09-13T16:00:00,"{""had_scheduling_conflict"": true, ""note"": ""Multi-department clash resolved by grouping""}",Approved,USR014,2026-09-02T18:00:00,1
+PI0002,PLAN001,SEC005,2026-09-10T13:00:00,2026-09-10T16:00:00,"{""had_scheduling_conflict"": true, ""note"": ""Multi-department clash resolved by grouping""}",Approved,USR012,2026-09-02T18:00:00,1
+PI0003,PLAN001,SEC008,2026-09-08T00:00:00,2026-09-08T04:30:00,"{""had_scheduling_conflict"": true, ""note"": ""Multi-department clash resolved by grouping""}",Approved,USR014,2026-08-28T18:00:00,1
+PI0004,PLAN001,SEC003,2026-09-11T23:00:00,2026-09-11T03:30:00,"{""had_scheduling_conflict"": true, ""note"": ""Multi-department clash resolved by grouping""}",Approved,USR011,2026-09-02T18:00:00,1
+PI0005,PLAN001,SEC009,2026-09-07T00:00:00,2026-09-07T05:30:00,"{""had_scheduling_conflict"": false, ""note"": ""No conflict""}",Approved,USR010,2026-08-29T18:00:00,1
+PI0006,PLAN001,SEC003,2026-09-13T23:00:00,2026-09-13T03:30:00,"{""had_scheduling_conflict"": true, ""note"": ""Multi-department clash resolved by grouping""}",Approved,USR010,2026-09-07T18:00:00,1
+PI0007,PLAN001,SEC008,2026-09-11T00:00:00,2026-09-11T04:30:00,"{""had_scheduling_conflict"": true, ""note"": ""Multi-department clash resolved by grouping""}",Approved,USR011,2026-09-07T18:00:00,1
+PI0008,PLAN001,SEC009,2026-09-10T00:00:00,2026-09-10T05:30:00,"{""had_scheduling_conflict"": false, ""note"": ""No conflict""}",Approved,USR011,2026-09-03T18:00:00,1
+PI0009,PLAN001,SEC001,2026-09-13T13:00:00,2026-09-13T14:00:00,"{""had_scheduling_conflict"": false, ""note"": ""No conflict""}",Approved,USR011,2026-09-05T18:00:00,1
+PI0010,PLAN001,SEC005,2026-09-07T23:00:00,2026-09-07T03:30:00,"{""had_scheduling_conflict"": false, ""note"": ""No conflict""}",Approved,USR012,2026-09-02T18:00:00,1
+PI0011,PLAN001,SEC009,2026-09-08T13:00:00,2026-09-08T16:00:00,"{""had_scheduling_conflict"": false, ""note"": ""No conflict""}",Approved,USR012,2026-09-07T18:00:00,1
+PI0012,PLAN001,SEC005,2026-09-11T23:00:00,2026-09-11T03:30:00,"{""had_scheduling_conflict"": false, ""note"": ""No conflict""}",Approved,USR011,2026-09-06T18:00:00,1
+PI0013,PLAN001,SEC002,2026-09-13T00:00:00,2026-09-13T05:30:00,"{""had_scheduling_conflict"": true, ""note"": ""Multi-department clash resolved by grouping""}",Approved,USR014,2026-08-28T18:00:00,1
+PI0014,PLAN001,SEC003,2026-09-09T11:00:00,2026-09-09T14:00:00,"{""had_scheduling_conflict"": false, ""note"": ""No conflict""}",Approved,USR012,2026-09-04T18:00:00,1
+PI0015,PLAN001,SEC004,2026-09-11T00:00:00,2026-09-11T05:30:00,"{""had_scheduling_conflict"": false, ""note"": ""No conflict""}",Approved,USR013,2026-08-28T18:00:00,1
+PI0016,PLAN001,SEC008,2026-09-13T13:00:00,2026-09-13T16:00:00,"{""had_scheduling_conflict"": false, ""note"": ""No conflict""}",Approved,USR011,2026-09-02T18:00:00,1
+PI0017,PLAN001,SEC004,2026-09-07T00:00:00,2026-09-07T05:30:00,"{""had_scheduling_conflict"": false, ""note"": ""No conflict""}",Approved,USR012,2026-08-28T18:00:00,1
+PI0018,PLAN001,SEC001,2026-09-10T13:00:00,2026-09-10T14:00:00,"{""had_scheduling_conflict"": false, ""note"": ""No conflict""}",Approved,USR014,2026-09-04T18:00:00,1
+PI0019,PLAN001,SEC004,2026-09-13T11:00:00,2026-09-13T16:00:00,"{""had_scheduling_conflict"": false, ""note"": ""No conflict""}",Approved,USR014,2026-08-31T18:00:00,1
+PI0020,PLAN001,SEC007,2026-09-10T01:00:00,2026-09-10T03:30:00,"{""had_scheduling_conflict"": false, ""note"": ""No conflict""}",Approved,USR014,2026-09-01T18:00:00,1
+PI0021,PLAN001,SEC008,2026-09-08T00:00:00,2026-09-08T04:30:00,"{""had_scheduling_conflict"": false, ""note"": ""No conflict""}",Approved,USR014,2026-08-28T18:00:00,1
+PI0022,PLAN001,SEC001,2026-09-08T00:00:00,2026-09-08T05:30:00,"{""had_scheduling_conflict"": false, ""note"": ""No conflict""}",Approved,USR014,2026-09-06T18:00:00,1
+PI0023,PLAN001,SEC009,2026-09-11T00:00:00,2026-09-11T05:30:00,"{""had_scheduling_conflict"": false, ""note"": ""No conflict""}",Approved,USR010,2026-09-03T18:00:00,1
+PI0024,PLAN001,SEC007,2026-09-13T13:00:00,2026-09-13T14:00:00,"{""had_scheduling_conflict"": false, ""note"": ""No conflict""}",Approved,USR013,2026-09-07T18:00:00,1
+PI0025,PLAN001,SEC004,2026-09-13T00:00:00,2026-09-13T05:30:00,"{""had_scheduling_conflict"": false, ""note"": ""No conflict""}",Approved,USR011,2026-09-02T18:00:00,1
+PI0026,PLAN001,SEC008,2026-09-11T13:00:00,2026-09-11T16:00:00,"{""had_scheduling_conflict"": false, ""note"": ""No conflict""}",Approved,USR010,2026-09-07T18:00:00,1
+PI0027,PLAN001,SEC004,2026-09-13T00:00:00,2026-09-13T05:30:00,"{""had_scheduling_conflict"": false, ""note"": ""No conflict""}",Approved,USR011,2026-09-06T18:00:00,1
+PI0028,PLAN001,SEC009,2026-09-08T00:00:00,2026-09-08T05:30:00,"{""had_scheduling_conflict"": false, ""note"": ""No conflict""}",Approved,USR011,2026-08-28T18:00:00,1
+PI0029,PLAN001,SEC005,2026-09-10T13:00:00,2026-09-10T16:00:00,"{""had_scheduling_conflict"": false, ""note"": ""No conflict""}",Approved,USR014,2026-09-03T18:00:00,1
+PI0030,PLAN001,SEC001,2026-09-12T13:00:00,2026-09-12T14:00:00,"{""had_scheduling_conflict"": false, ""note"": ""No conflict""}",Approved,USR010,2026-09-06T18:00:00,1
+PI0031,PLAN001,SEC005,2026-09-11T23:00:00,2026-09-11T03:30:00,"{""had_scheduling_conflict"": false, ""note"": ""No conflict""}",Approved,USR010,2026-09-04T18:00:00,1
+PI0032,PLAN001,SEC008,2026-09-09T13:00:00,2026-09-09T16:00:00,"{""had_scheduling_conflict"": false, ""note"": ""No conflict""}",Approved,USR014,2026-08-28T18:00:00,1
+PI0033,PLAN001,SEC009,2026-09-11T00:00:00,2026-09-11T05:30:00,"{""had_scheduling_conflict"": false, ""note"": ""No conflict""}",Approved,USR014,2026-09-05T18:00:00,1
+PI0034,PLAN001,SEC009,2026-09-10T13:00:00,2026-09-10T16:00:00,"{""had_scheduling_conflict"": false, ""note"": ""No conflict""}",Approved,USR010,2026-09-04T18:00:00,1
+PI0035,PLAN001,SEC005,2026-09-11T23:00:00,2026-09-11T03:30:00,"{""had_scheduling_conflict"": false, ""note"": ""No conflict""}",Approved,USR010,2026-09-07T18:00:00,1
+PI0036,PLAN001,SEC005,2026-09-08T13:00:00,2026-09-08T16:00:00,"{""had_scheduling_conflict"": false, ""note"": ""No conflict""}",Approved,USR011,2026-09-05T18:00:00,1
+PI0037,PLAN001,SEC003,2026-09-09T23:00:00,2026-09-09T03:30:00,"{""had_scheduling_conflict"": false, ""note"": ""No conflict""}",Approved,USR010,2026-08-30T18:00:00,1
+PI0038,PLAN001,SEC001,2026-09-13T00:00:00,2026-09-13T05:30:00,"{""had_scheduling_conflict"": false, ""note"": ""No conflict""}",Approved,USR010,2026-09-04T18:00:00,1
+PI0039,PLAN001,SEC002,2026-09-11T00:00:00,2026-09-11T05:30:00,"{""had_scheduling_conflict"": false, ""note"": ""No conflict""}",Approved,USR013,2026-09-01T18:00:00,1
+PI0040,PLAN001,SEC003,2026-09-11T23:00:00,2026-09-11T03:30:00,"{""had_scheduling_conflict"": false, ""note"": ""No conflict""}",Approved,USR010,2026-09-05T18:00:00,1
+PI0041,PLAN001,SEC007,2026-09-13T01:00:00,2026-09-13T03:30:00,"{""had_scheduling_conflict"": false, ""note"": ""No conflict""}",Approved,USR010,2026-09-01T18:00:00,1
+PI0042,PLAN001,SEC004,2026-09-10T11:00:00,2026-09-10T16:00:00,"{""had_scheduling_conflict"": false, ""note"": ""No conflict""}",Approved,USR012,2026-09-07T18:00:00,1
+PI0043,PLAN001,SEC004,2026-09-11T11:00:00,2026-09-11T16:00:00,"{""had_scheduling_conflict"": false, ""note"": ""No conflict""}",Approved,USR014,2026-09-03T18:00:00,1
+PI0044,PLAN001,SEC004,2026-09-11T11:00:00,2026-09-11T16:00:00,"{""had_scheduling_conflict"": false, ""note"": ""No conflict""}",Approved,USR014,2026-09-02T18:00:00,1
+PI0045,PLAN001,SEC005,2026-09-08T13:00:00,2026-09-08T16:00:00,"{""had_scheduling_conflict"": false, ""note"": ""No conflict""}",Approved,USR012,2026-08-28T18:00:00,1
+PI0046,PLAN001,SEC006,2026-09-10T14:00:00,2026-09-10T15:00:00,"{""had_scheduling_conflict"": false, ""note"": ""No conflict""}",Approved,USR014,2026-09-05T18:00:00,1
+PI0047,PLAN001,SEC001,2026-09-11T00:00:00,2026-09-11T05:30:00,"{""had_scheduling_conflict"": false, ""note"": ""No conflict""}",Approved,USR013,2026-09-02T18:00:00,1
+PI0048,PLAN001,SEC002,2026-09-11T00:00:00,2026-09-11T05:30:00,"{""had_scheduling_conflict"": false, ""note"": ""No conflict""}",Approved,USR011,2026-09-03T18:00:00,1
+PI0049,PLAN001,SEC001,2026-09-12T13:00:00,2026-09-12T14:00:00,"{""had_scheduling_conflict"": false, ""note"": ""No conflict""}",Approved,USR014,2026-08-28T18:00:00,1
+PI0050,PLAN001,SEC002,2026-09-09T00:00:00,2026-09-09T05:30:00,"{""had_scheduling_conflict"": false, ""note"": ""No conflict""}",Approved,USR014,2026-09-02T18:00:00,1

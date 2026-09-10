@@ -1,0 +1,5 @@
+role_id,role_name,authority_level
+ROLE001,Department Supervisor,1
+ROLE002,Section Controller,2
+ROLE003,Chief Controller/DOM,3
+ROLE004,Admin,4

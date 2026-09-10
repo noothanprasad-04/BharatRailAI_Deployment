@@ -1,0 +1,6 @@
+source_system_id,system_name,description
+SRC001,TMS,Track Management System
+SRC002,SMMS,Signalling Maintenance & Management System
+SRC003,TDMS,Traction Distribution Management System
+SRC004,COA,Control Office Application (timetable)
+SRC005,FREIGHT_FORECAST,Freight movement forecast feed

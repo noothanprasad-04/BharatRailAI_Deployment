@@ -1,0 +1,3 @@
+optimization_job_id,horizon_type,horizon_start,horizon_end,started_at,completed_at,status,solver_status,model_version_id,error_message
+OPTJOB001,Weekly,2026-09-07,2026-09-13,2026-09-06T22:00:00,2026-09-06T22:04:12,Completed,OPTIMAL,MODEL_OPT_v1,
+OPTJOB002,Monthly,2026-09-07,2026-10-04,2026-09-06T22:05:00,2026-09-06T22:11:47,Completed,OPTIMAL,MODEL_OPT_v1,
